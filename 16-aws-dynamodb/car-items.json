@@ -1,0 +1,14 @@
+[
+  {
+  "Manufacturer": {"S": "Toyota"},
+  "Make": {"S": "Corolla"},
+  "Year": {"N": 2004},
+  "VIN": {"S": "4Y1SL65848z411439"}
+  },
+  {
+    "Manufacturer": {"S": "Honda"},
+    "Make": {"S": "Civic"},
+    "Year": {"N": 2017},
+    "VIN": {"S": "DY1SL65848Z411432"}
+  }
+]
